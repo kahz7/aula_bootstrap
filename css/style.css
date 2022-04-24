@@ -3,11 +3,11 @@ body {
 }
 
 .navbar {
-    background-color: #918C8D;
+    background-color: #34495E;
 }
 
 .quem-somos {
-    background-color: #D7CCCE;
+    background-color: white;
     color: #333131;
 }
 
@@ -21,7 +21,32 @@ body {
     color: white;
 }
 
-.bg-footer {
-    background-color: black;
+.ondeestamos {
+    background-color: white;
+    color: #333131;
+}
+
+.contato {
+    background-color: #34495E;
     color: white;
+}
+
+.contact-list {
+    list-style-type: none;
+    text-align: center;
+    color: white;
+    text-decoration-line: none;
+}
+
+.bg-footer {
+    background-color: white;
+    color: black;
+    text-decoration-line: none;
+}
+
+.karin {
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
 }
